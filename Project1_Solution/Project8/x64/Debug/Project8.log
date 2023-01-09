@@ -1,0 +1,4 @@
+﻿  Project8.cpp
+F:\Programming\C++\Study\StudyCPP\Project1_Solution\Project8\Project8.cpp(17,6): warning C4101: 'n_apples': unreferenced local variable
+F:\Programming\C++\Study\StudyCPP\Project1_Solution\Project8\Project8.cpp(18,6): warning C4101: 'nApples': unreferenced local variable
+  Project8.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project1_Solution\x64\Debug\Project8.exe
