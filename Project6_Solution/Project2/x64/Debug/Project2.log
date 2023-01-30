@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(9,34): warning C4311: 'type cast': pointer truncation from 'int *[]' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(9,34): warning C4302: 'type cast': truncation from 'int *[]' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(10,37): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(10,37): warning C4302: 'type cast': truncation from 'int *' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(24,35): warning C4311: 'type cast': pointer truncation from 'int (*)[20]' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(24,35): warning C4302: 'type cast': truncation from 'int (*)[20]' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(25,33): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+F:\Programming\C++\Study\StudyCPP\Project6_Solution\Project2\main.cpp(25,33): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  Project2.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project6_Solution\x64\Debug\Project2.exe
