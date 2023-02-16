@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Programming\C++\Study\StudyCPP\Project10_Solution\Project5\main.cpp(26,1): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+F:\Programming\C++\Study\StudyCPP\Project10_Solution\Project5\main.cpp(104,27): warning C4018: '<': signed/unsigned mismatch
+F:\Programming\C++\Study\StudyCPP\Project10_Solution\Project5\main.cpp(159,25): warning C4101: 'int_arr': unreferenced local variable
+  Project5.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project10_Solution\x64\Debug\Project5.exe
