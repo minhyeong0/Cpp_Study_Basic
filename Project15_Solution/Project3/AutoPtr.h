@@ -26,7 +26,7 @@ public:
 	//	std::cout << "AutoPtr copy constructor" << std::endl;
 	//	
 	//	//deep copy
-	//	m_ptr = a.m_ptr;
+	//	m_ptr = new T;
 	//	*m_ptr = *a.m_ptr;
 	//}
 
