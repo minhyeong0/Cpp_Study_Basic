@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\Programming\C++\Study\StudyCPP\Project19_Solution\Project6\main.cpp(49,33): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\Programming\C++\Study\StudyCPP\Project19_Solution\Project6\main.cpp(55,33): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Project6.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project19_Solution\x64\Debug\Project6.exe
