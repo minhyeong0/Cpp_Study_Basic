@@ -1,0 +1,10 @@
+﻿  main.cpp
+  The contents of <execution> are available only with C++17 or later.
+F:\Programming\C++\Study\StudyCPP\Project20_Solution\Project2\main.cpp(33,14): error C2039: 'scoped_lock': is not a member of 'std'
+F:\Programs\Microsoft Visual Studio\VC\Tools\MSVC\14.33.31629\include\numeric(23): message : see declaration of 'std'
+F:\Programming\C++\Study\StudyCPP\Project20_Solution\Project2\main.cpp(33,26): error C2065: 'scoped_lock': undeclared identifier
+F:\Programming\C++\Study\StudyCPP\Project20_Solution\Project2\main.cpp(33,26): error C2146: syntax error: missing ';' before identifier 'lock'
+F:\Programming\C++\Study\StudyCPP\Project20_Solution\Project2\main.cpp(33,34): error C2672: 'lock': no matching overloaded function found
+F:\Programs\Microsoft Visual Studio\VC\Tools\MSVC\14.33.31629\include\mutex(417,6): message : could be 'void std::lock(_Lock0 &,_Lock1 &,_LockN &...)'
+F:\Programming\C++\Study\StudyCPP\Project20_Solution\Project2\main.cpp(33,26): message : 'void std::lock(_Lock0 &,_Lock1 &,_LockN &...)': expects 3 arguments - 1 provided
+F:\Programs\Microsoft Visual Studio\VC\Tools\MSVC\14.33.31629\include\mutex(417): message : see declaration of 'std::lock'
