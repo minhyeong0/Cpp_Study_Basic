@@ -1,4 +1,0 @@
-﻿  main.cpp
-F:\Programming\C++\Study\StudyCPP\Project9_Solution\Project14\main.cpp(22,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
-F:\Programming\C++\Study\StudyCPP\Project9_Solution\Project14\main.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
-  Project14.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project9_Solution\x64\Debug\Project14.exe

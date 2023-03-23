@@ -1,3 +1,0 @@
-﻿  main.cpp
-F:\Programming\C++\Study\StudyCPP\Project9_Solution\Project12\main.cpp(17,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Project12.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project9_Solution\x64\Debug\Project12.exe

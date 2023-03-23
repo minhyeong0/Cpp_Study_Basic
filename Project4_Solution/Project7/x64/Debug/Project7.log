@@ -1,4 +1,0 @@
-﻿  main.cpp
-F:\Programming\C++\Study\StudyCPP\Project4_Solution\Project7\main.cpp(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
-F:\Programming\C++\Study\StudyCPP\Project4_Solution\Project7\main.cpp(12,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Project7.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project4_Solution\x64\Debug\Project7.exe

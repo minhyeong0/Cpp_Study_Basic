@@ -1,4 +1,0 @@
-﻿  main.cpp
-F:\Programming\C++\Study\StudyCPP\Project14_Solution\Project7\main.cpp(13,1): warning C4297: 'A::~A': function assumed not to throw an exception but does
-F:\Programming\C++\Study\StudyCPP\Project14_Solution\Project7\main.cpp(13,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
-  Project7.vcxproj -> F:\Programming\C++\Study\StudyCPP\Project14_Solution\x64\Debug\Project7.exe
